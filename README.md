@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Nhan</h1>
 
 <p align="center">
-  <a href="https://hien-duc.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="mailto:nhan.nguyentan.cit21@eiu.edu.vn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
